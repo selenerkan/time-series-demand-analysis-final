@@ -58,3 +58,6 @@ Then you can click the run button. Example filled GUI page is provided below:
 ## EXAMPLE OUTPUT
 
 
+![image](https://user-images.githubusercontent.com/56449035/80843883-059fa200-8c0e-11ea-93ed-93bf72b9ed88.png)
+
+![image](https://user-images.githubusercontent.com/56449035/80843956-341d7d00-8c0e-11ea-82ba-b93dea6d80d5.png)
