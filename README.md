@@ -46,8 +46,12 @@ In the testing or forecasting part, we advise you first test all of the algorith
 
 If you choose to test algorithm(s): Enter the percentage of the training data in the “enter the index to start forecasting section”. (Ex. 80)
 
-If you choose to forecast: You have to enter the row index that you want to start your forecast from to “enter the index to start forecasting section” section (ex. 380, it will do the forecasting starting from row 381. Indices start from 0). While the target column is not required, other features should be included.
-In the right hand side of the GUI page, you can see the listed classification and regression algorithm. You can choose one or more algorithms based on the target feature type. (If you will use the regression algorithms, check the “conduct regression” box). 
+If you choose to forecast: You have to enter the row index that you want to start your forecast from to “enter the index to start forecasting section” section (ex. 380, it will do the forecasting starting from row 381. Indices start from 0). While the target column is not required, other features should be included. 
 
-Then you can click the run button.
+In the right hand side of the GUI page, you can see the listed classification and regression algorithm. You can choose one or more algorithms based on the target feature type. (If you will use the regression algorithms, check the “conduct regression” box)
+
+Then you can click the run button. Example filled GUI page is provided below:
+
+![image](https://user-images.githubusercontent.com/56449035/80843532-38956600-8c0d-11ea-9a12-5f6cd6be52eb.png)
+
 
