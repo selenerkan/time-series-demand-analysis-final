@@ -31,6 +31,7 @@ You need to install every .py files and the src folder. Then, you need to run ma
 ## RUN
 After you run the main.py file, there will be a GUI page shown as below.
 
+![image](https://user-images.githubusercontent.com/56449035/80843423-f409ca80-8c0c-11ea-89bc-dd7dd82faf4c.png)
 
  
 You need to select the data file that you want to use. If you want to apply forecasting, while the target columns is empty for the forecasting period, other features must be filled. While testing, target column cannot be empty. So, you shouldn’t include the forecasting period data into your dataset. The data that you will use must have a timestamp (date) column and must be a .csv file. Timestamp column must be in the format of DD-MM-YYYY. You also need to specify the index numbers of the target and the timestamp column (Indices start from 0). Timestamp column’s index number should be less than the index of the target column. 
