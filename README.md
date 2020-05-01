@@ -3,6 +3,7 @@
 * [Install](#Install)
 * [CODE](#CODE)
 * [RUN](#RUN)
+* [EXAMPLE OUTPUT](#EXAMPLE-OUTPUT)
 
 ## Install
 This project requires Python and the following Python libraries installed:
@@ -53,5 +54,7 @@ In the right hand side of the GUI page, you can see the listed classification an
 Then you can click the run button. Example filled GUI page is provided below:
 
 ![image](https://user-images.githubusercontent.com/56449035/80843532-38956600-8c0d-11ea-9a12-5f6cd6be52eb.png)
+
+## EXAMPLE OUTPUT
 
 
