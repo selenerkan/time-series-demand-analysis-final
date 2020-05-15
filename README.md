@@ -1,11 +1,11 @@
 ## Project: Time Series Demand Analysis
 ## Table of contents
-* [Install](#Install)
+* [INSTALL](#INSTALL)
 * [CODE](#CODE)
 * [RUN](#RUN)
 * [EXAMPLE OUTPUT](#EXAMPLE-OUTPUT)
 
-## Install
+## INSTALL
 This project requires Python and the following Python libraries installed:
     
     • NumPy
